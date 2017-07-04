@@ -1,0 +1,278 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Bookmark does not disappear
+- Normal
+- Hard
+- Spoof Maximum Stats 99
+- HP
+- ATK
+- SKILL
+- SPD
+- LCK
+- DEF
+- RES
+- MOV
+- HP +255%
+- ATK +255%
+- SKILL +255%
+- SPD +255%
+- LCK +255%
+- DEF +255%
+- RES +255%
+- HP +0%
+- ATK +0%
+- SKILL +0%
+- SPD +0%
+- LCK +0%
+- DEF +0%
+- RES +0%
+- Teleport on overworld
+- Max Renown
+- Gold Coin 996
+- Silver Coin 9984
+- Instant Text
+- No Overworld Reinforcements
+- 100 EXP every time
+- Control enemy
+- Move Again
+- Trade with the enemy
+- Anywhere start position
+- Anyone can use convoy
+- All stats up when level up
+- Infinite Mila Turnwheel
+- Infinite items
+- Can Retreat on first turn
+- Instant support conversations
+- Infnite HP
+- Attack range 100
+- Max movement
+- All Supports A rank
+- All Weapon equipment possible
+- Unlock skills for equipped weapons
+- Switch to Another Convoy
+- All classes available to all units
+- Run through enemies
+- Wells do not wither
+- Can Get both Dean and Sonya
+- Even if you kill Zeke you can get Tatiana
+- Unknown
+- Alm
+- Lukas
+- Gray
+- Tobin
+- Kliff
+- Silque
+- Clair
+- Clive
+- Forsyth
+- Python
+- Luthier
+- Mathilda
+- Delthea
+- Tatiana
+- Zeke
+- Mycen
+- Faye
+- Celica
+- Mae
+- Boey
+- Genny
+- Saber
+- Valbar
+- Kamui
+- Leon
+- Palla
+- Catria
+- Atlas
+- Jesse
+- Sonya
+- Deen
+- Est
+- Nomah
+- Conrad
+- Brigand Boss
+- Desaix
+- Slayde
+- Barth
+- Zakson
+- Desaix
+- Lawson
+- Gazelle
+- Tatarrah
+- Delthea
+- Fernand
+- Berkut
+- Fernand
+- Garth
+- Wolff
+- Deen
+- Sonya
+- Grieth
+- Blake
+- Mikhail
+- Gold Knight
+- Xaizor
+- Marla
+- Nuibaba
+- Zeke
+- Jerome
+- Magnus
+- Hestia
+- Mueller
+- Rudolf
+- Berkut
+- Fernand
+- Slayde
+- Garcia
+- Dolth
+- Jamil
+- Jedah
+- Duma
+- Aurum
+- Argentum
+- Gham
+- Cerberus
+- Naberius
+- Hades
+- Berkut
+- Rinea
+- Berkut
+- Rinea
+- Marla
+- Hestia
+- Mila's Servant
+- Duma's Apostle
+- Dracul
+- Titan
+- Garuda
+- Guardian
+- Vestal
+- Fafnir
+- Dagon
+- Balor
+- Deimos
+- Fire Dragon
+- The Creation
+- Alm
+- Celica
+- Gray
+- Tobin
+- Kliff
+- Faye
+- Mycen
+- Slayde
+- Cavalier
+- Soldier
+- Ship
+- Ship
+- Archer
+- Archer
+- Masked Knight
+- Mercenary
+- Myrmidon
+- Dread Fighter
+- Archer
+- Sniper
+- Bow Knight
+- Brigand
+- Revenant
+- Bonewalker
+- Lich
+- Gargoyle
+- Deathgoyle
+- Entombed
+- Mogall
+- Fiend
+- Witch
+- Witch
+- Necrodragon
+- Soldier
+- Knight
+- Baron
+- Cavalier
+- Paladin
+- Gold Knight
+- Sage
+- Arcanist
+- Arcanist
+- Cantor
+- Priestess
+- Pegasus Knight
+- Falcon Knight
+- Villager
+- Villager
+- Mercenary
+- Myrmidon
+- Dread Fighter
+- Brigand
+- Archer
+- Sniper
+- Bow Knight
+- Soldier
+- Knight
+- Baron
+- Cavalier
+- Falcon Knight
+- Gold Knight
+- Sage
+- Priestess
+- Arcanist
+- Cantor
+- Gargoyle
+- Deathgoyle
+- Princess
+- Mogall
+- Mogall
+- Revenant
+- Revenant
+- Entombed
+- Entombed
+- Marth
+- Ike
+- Lucina
+- Robin
+- Roy
+- Corrin (M)
+- Corrin (F)
+- Arcanist
+- Rudolf
+- Jedah
+- Fire Dragon
+- Titan
+- Garuda
+- Guardian
+- Vestal
+- Fafnir
+- Mage
+- Entombed
+- Unknown Villager
+- Illusion Revenant
+- Illusion Bonewalker
+- Illusion Gargoyle
+- Illusion Necrodragon
+- Illusion Entombed
+- Illusion Lich
+- Illusion Deathgoyle
+- Illusion Witch
+- Illusion Fiend
+- Illusion White Dragon
+- Remove Characters
